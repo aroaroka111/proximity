@@ -5,7 +5,7 @@
   "logo": "https://i.imgur.com/Tqnk48j.png",
   "env": {
     "PREFIX": {
-      "description": "Your bot's command prefix.",
+      "description": "#",
       "value": "$",
       "required": true
     },
